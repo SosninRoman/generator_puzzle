@@ -10,9 +10,9 @@ public:
     
 	std::string generateCode();  
 
-    std::string someCodeRelatedThing();
+        std::string someCodeRelatedThing();
 
-    ~JavaCodeGenerator (){};
+        ~JavaCodeGenerator (){};
 };
 
 #endif
